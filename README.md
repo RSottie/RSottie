@@ -1,5 +1,4 @@
 # Richard Sottie
-
 **PhD Researcher | Computational Nanophotonics | Machine Learning | Plasmonics**
 
 📍 Ohio University | Department of Physics and Astronomy  
@@ -40,6 +39,22 @@ to solve forward and inverse design problems in nanophotonics.
   Rare-Earth Molecular System Measured at the Single Atom Limit at Room Temperature.* 
   J. Phys. Chem. C **2023**, 127(40), 20064–20071.
   [DOI](https://doi.org/10.1021/acs.jpcc.3c04806)
+
+---
+
+## Science Communication
+
+- **Sottie, R.** *The History of Light and the Birth of Quantum Physics.* 
+  International Year of Quantum Science and Technology (IYQ 2025), Sep 2025.
+  [Read article](https://quantum2025.org)
+
+---
+
+## Awards & Fellowships
+
+- **APS JNIPER Fellow** — American Physical Society
+- **IYQ 2025 Contributing Author** — UN-endorsed International Year of Quantum 
+  Science and Technology
 
 ---
 
