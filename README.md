@@ -1,16 +1,37 @@
-## Hi there 👋
+# Richard Sottie
 
-<!--
-**RSottie/RSottie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Researcher in Physics | Computational Nanophotonics | Plasmonics | Machine Learning
 
-Here are some ideas to get you started:
+## Research Interests
+- Nanophotonics
+- Plasmonics
+- Optical Chirality
+- Machine Learning for Physics
+- Computational Physics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+- Weakly supervised learning for plasmonic spectra
+- Multipole resonances in gold nanorods
+- Chiral transfer in gold nanostructures
+- COMSOL electromagnetic simulations
+- Deep learning with TensorFlow / Python
+
+## Skills
+- Python
+- TensorFlow / Keras
+- COMSOL Multiphysics
+- Mathematica
+- C++
+- Scientific computing
+- Numerical methods
+
+## Publications
+- X-ray Spectroscopy of a Rare-Earth Molecular System Measured at the Single Atom Limit at Room Temperature  
+  Journal of Physical Chemistry C (2023)
+
+- Weakly Supervised Learning for Plasmonic Spectra (in preparation)
+- Optical Chirality in Gold Nanorod Assemblies (in preparation)
+
+## Links
+LinkedIn: https://www.linkedin.com/in/richard-sottie-859570203/
+GitHub: https://github.com/RSottie
